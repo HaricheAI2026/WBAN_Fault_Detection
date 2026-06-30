@@ -1,0 +1,3 @@
+# Performance Log
+# On-device (or simulated) latency and RAM measurements.
+# TODO: populate after Day 12
